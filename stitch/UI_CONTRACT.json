@@ -1,0 +1,545 @@
+[
+  {
+    "screenId": "b7f80326d0df44088f785b4e07aadf9f",
+    "screenTitle": "Record Editor - Focused Note Pin",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "button",
+        "label": "Cancel",
+        "line": 257
+      },
+      {
+        "type": "button",
+        "label": "Record",
+        "line": 260
+      },
+      {
+        "type": "input",
+        "label": "Enter record title",
+        "inputType": "text",
+        "placeholder": "Enter record title",
+        "line": 203
+      },
+      {
+        "type": "input",
+        "label": "Add detailed notes here...",
+        "inputType": "textarea",
+        "placeholder": "Add detailed notes here...",
+        "line": 215
+      },
+      {
+        "type": "input",
+        "label": "radio",
+        "inputType": "radio",
+        "line": 224
+      },
+      {
+        "type": "input",
+        "label": "radio",
+        "inputType": "radio",
+        "line": 231
+      },
+      {
+        "type": "input",
+        "label": "select",
+        "inputType": "select",
+        "line": 243
+      }
+    ],
+    "navigation": [],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "Cancel",
+        "line": 257
+      },
+      {
+        "type": "button",
+        "label": "Record",
+        "line": 260
+      }
+    ],
+    "inputs": [
+      {
+        "type": "input",
+        "label": "Enter record title",
+        "inputType": "text",
+        "placeholder": "Enter record title",
+        "line": 203
+      },
+      {
+        "type": "input",
+        "label": "Add detailed notes here...",
+        "inputType": "textarea",
+        "placeholder": "Add detailed notes here...",
+        "line": 215
+      },
+      {
+        "type": "input",
+        "label": "radio",
+        "inputType": "radio",
+        "line": 224
+      },
+      {
+        "type": "input",
+        "label": "radio",
+        "inputType": "radio",
+        "line": 231
+      },
+      {
+        "type": "input",
+        "label": "select",
+        "inputType": "select",
+        "line": 243
+      }
+    ],
+    "hardcodedData": [],
+    "totalInteractive": 7,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  },
+  {
+    "screenId": "0821c29dd4f44de5a88b29ea85f17238",
+    "screenTitle": "Insights - Focused Note Pin",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "link",
+        "label": "Operations",
+        "href": "#",
+        "line": 119
+      },
+      {
+        "type": "link",
+        "label": "Insights",
+        "href": "#",
+        "line": 123
+      },
+      {
+        "type": "link",
+        "label": "settings",
+        "href": "#",
+        "line": 127
+      },
+      {
+        "type": "link",
+        "label": "Operations",
+        "href": "#",
+        "line": 294
+      },
+      {
+        "type": "link",
+        "label": "Insights",
+        "href": "#",
+        "line": 298
+      },
+      {
+        "type": "link",
+        "label": "settings",
+        "href": "#",
+        "line": 304
+      },
+      {
+        "type": "button",
+        "label": "Create Record",
+        "line": 132
+      },
+      {
+        "type": "button",
+        "label": "Filter",
+        "line": 157
+      },
+      {
+        "type": "button",
+        "label": "Export Summary",
+        "line": 161
+      },
+      {
+        "type": "button",
+        "label": "Review Now",
+        "line": 253
+      }
+    ],
+    "navigation": [
+      {
+        "type": "link",
+        "label": "Operations",
+        "href": "#",
+        "line": 119
+      },
+      {
+        "type": "link",
+        "label": "Insights",
+        "href": "#",
+        "line": 123
+      },
+      {
+        "type": "link",
+        "label": "settings",
+        "href": "#",
+        "line": 127
+      },
+      {
+        "type": "link",
+        "label": "Operations",
+        "href": "#",
+        "line": 294
+      },
+      {
+        "type": "link",
+        "label": "Insights",
+        "href": "#",
+        "line": 298
+      },
+      {
+        "type": "link",
+        "label": "settings",
+        "href": "#",
+        "line": 304
+      }
+    ],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "Create Record",
+        "line": 132
+      },
+      {
+        "type": "button",
+        "label": "Filter",
+        "line": 157
+      },
+      {
+        "type": "button",
+        "label": "Export Summary",
+        "line": 161
+      },
+      {
+        "type": "button",
+        "label": "Review Now",
+        "line": 253
+      }
+    ],
+    "inputs": [],
+    "hardcodedData": [],
+    "totalInteractive": 10,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  },
+  {
+    "screenId": "10225874d8c04fa59fed74d33d7aad48",
+    "screenTitle": "Record Operations - Focused Note Pin",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "link",
+        "label": "Operations",
+        "href": "#",
+        "line": 212
+      },
+      {
+        "type": "link",
+        "label": "Insights",
+        "href": "#",
+        "line": 216
+      },
+      {
+        "type": "link",
+        "label": "settings",
+        "href": "#",
+        "line": 220
+      },
+      {
+        "type": "link",
+        "label": "Privacy Policy",
+        "href": "#",
+        "line": 467
+      },
+      {
+        "type": "link",
+        "label": "Terms of Service",
+        "href": "#",
+        "line": 468
+      },
+      {
+        "type": "link",
+        "label": "Help Center",
+        "href": "#",
+        "line": 469
+      },
+      {
+        "type": "button",
+        "label": "Create Record",
+        "line": 226
+      },
+      {
+        "type": "button",
+        "label": "menu",
+        "line": 237
+      },
+      {
+        "type": "button",
+        "label": "Cloud Sync Status",
+        "line": 250
+      },
+      {
+        "type": "button",
+        "label": "Network Status",
+        "line": 253
+      },
+      {
+        "type": "button",
+        "label": "Filter",
+        "line": 270
+      },
+      {
+        "type": "button",
+        "label": "Export",
+        "line": 274
+      },
+      {
+        "type": "button",
+        "label": "Retry",
+        "line": 319
+      },
+      {
+        "type": "button",
+        "label": "edit",
+        "line": 363
+      },
+      {
+        "type": "button",
+        "label": "edit",
+        "line": 377
+      },
+      {
+        "type": "button",
+        "label": "edit",
+        "line": 391
+      },
+      {
+        "type": "button",
+        "label": "push_pin",
+        "line": 403
+      },
+      {
+        "type": "button",
+        "label": "close",
+        "line": 404
+      },
+      {
+        "type": "button",
+        "label": "Edit",
+        "line": 435
+      },
+      {
+        "type": "button",
+        "label": "Comment",
+        "line": 455
+      },
+      {
+        "type": "button",
+        "label": "Mark Complete",
+        "line": 456
+      },
+      {
+        "type": "input",
+        "label": "Search records...",
+        "inputType": "text",
+        "placeholder": "Search records...",
+        "line": 243
+      },
+      {
+        "type": "input",
+        "label": "Filter in view...",
+        "inputType": "text",
+        "placeholder": "Filter in view...",
+        "line": 331
+      },
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 343
+      },
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 353
+      },
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 367
+      },
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 381
+      }
+    ],
+    "navigation": [
+      {
+        "type": "link",
+        "label": "Operations",
+        "href": "#",
+        "line": 212
+      },
+      {
+        "type": "link",
+        "label": "Insights",
+        "href": "#",
+        "line": 216
+      },
+      {
+        "type": "link",
+        "label": "settings",
+        "href": "#",
+        "line": 220
+      },
+      {
+        "type": "link",
+        "label": "Privacy Policy",
+        "href": "#",
+        "line": 467
+      },
+      {
+        "type": "link",
+        "label": "Terms of Service",
+        "href": "#",
+        "line": 468
+      },
+      {
+        "type": "link",
+        "label": "Help Center",
+        "href": "#",
+        "line": 469
+      }
+    ],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "Create Record",
+        "line": 226
+      },
+      {
+        "type": "button",
+        "label": "menu",
+        "line": 237
+      },
+      {
+        "type": "button",
+        "label": "Cloud Sync Status",
+        "line": 250
+      },
+      {
+        "type": "button",
+        "label": "Network Status",
+        "line": 253
+      },
+      {
+        "type": "button",
+        "label": "Filter",
+        "line": 270
+      },
+      {
+        "type": "button",
+        "label": "Export",
+        "line": 274
+      },
+      {
+        "type": "button",
+        "label": "Retry",
+        "line": 319
+      },
+      {
+        "type": "button",
+        "label": "edit",
+        "line": 363
+      },
+      {
+        "type": "button",
+        "label": "edit",
+        "line": 377
+      },
+      {
+        "type": "button",
+        "label": "edit",
+        "line": 391
+      },
+      {
+        "type": "button",
+        "label": "push_pin",
+        "line": 403
+      },
+      {
+        "type": "button",
+        "label": "close",
+        "line": 404
+      },
+      {
+        "type": "button",
+        "label": "Edit",
+        "line": 435
+      },
+      {
+        "type": "button",
+        "label": "Comment",
+        "line": 455
+      },
+      {
+        "type": "button",
+        "label": "Mark Complete",
+        "line": 456
+      }
+    ],
+    "inputs": [
+      {
+        "type": "input",
+        "label": "Search records...",
+        "inputType": "text",
+        "placeholder": "Search records...",
+        "line": 243
+      },
+      {
+        "type": "input",
+        "label": "Filter in view...",
+        "inputType": "text",
+        "placeholder": "Filter in view...",
+        "line": 331
+      },
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 343
+      },
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 353
+      },
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 367
+      },
+      {
+        "type": "input",
+        "label": "checkbox",
+        "inputType": "checkbox",
+        "line": 381
+      }
+    ],
+    "hardcodedData": [],
+    "totalInteractive": 27,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  }
+]
