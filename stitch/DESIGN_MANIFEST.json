@@ -1,0 +1,35 @@
+[
+  {
+    "screenId": "b7f80326d0df44088f785b4e07aadf9f",
+    "title": "Record Editor - Focused Note Pin",
+    "htmlFile": "b7f80326d0df44088f785b4e07aadf9f.html",
+    "deviceType": "DESKTOP",
+    "htmlUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ6Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpZCiVodG1sXzMxYWMxNWRhODg5YzQxYWQ4MTg1YzZmZDY4MGUzODYwEgsSBxCN19Wi9xcYAZIBIgoKcHJvamVjdF9pZBIUQhI1MTYyNDY1OTYyNjU0NTUxMjA&filename=&opi=96797242",
+    "localHtml": "/Users/setrox/projects/focused-note-pin-c362a4e1/stitch/b7f80326d0df44088f785b4e07aadf9f.html",
+    "surfaceIds": [
+      "SURF_RECORD_EDITOR"
+    ]
+  },
+  {
+    "screenId": "0821c29dd4f44de5a88b29ea85f17238",
+    "title": "Insights - Focused Note Pin",
+    "htmlFile": "0821c29dd4f44de5a88b29ea85f17238.html",
+    "deviceType": "DESKTOP",
+    "htmlUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ6Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpZCiVodG1sXzQxZjc3NmZjYWQ4NDRkZGQ5ZTI4ZmViZDgzZmYxYjlhEgsSBxCN19Wi9xcYAZIBIgoKcHJvamVjdF9pZBIUQhI1MTYyNDY1OTYyNjU0NTUxMjA&filename=&opi=96797242",
+    "localHtml": "/Users/setrox/projects/focused-note-pin-c362a4e1/stitch/0821c29dd4f44de5a88b29ea85f17238.html",
+    "surfaceIds": [
+      "SURF_INSIGHTS"
+    ]
+  },
+  {
+    "screenId": "10225874d8c04fa59fed74d33d7aad48",
+    "title": "Record Operations - Focused Note Pin",
+    "htmlFile": "10225874d8c04fa59fed74d33d7aad48.html",
+    "deviceType": "DESKTOP",
+    "htmlUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ6Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpZCiVodG1sXzRhYjQ3NThhZDYzODRmY2Y5YzVmYjg5NzgyMzcyOWViEgsSBxCN19Wi9xcYAZIBIgoKcHJvamVjdF9pZBIUQhI1MTYyNDY1OTYyNjU0NTUxMjA&filename=&opi=96797242",
+    "localHtml": "/Users/setrox/projects/focused-note-pin-c362a4e1/stitch/10225874d8c04fa59fed74d33d7aad48.html",
+    "surfaceIds": [
+      "SURF_RECORD_OPERATIONS"
+    ]
+  }
+]
