@@ -1,0 +1,245 @@
+[
+  {
+    "screenId": "b7f80326d0df44088f785b4e07aadf9f",
+    "title": "Record Editor - Focused Note Pin",
+    "componentName": "RecordEditorFocusedNotePin",
+    "file": "src/screens/RecordEditorFocusedNotePin.tsx",
+    "buttons": 2,
+    "inputs": 3,
+    "links": 0,
+    "actions": [
+      {
+        "id": "cancel-1",
+        "kind": "button",
+        "label": "Cancel",
+        "index": 0
+      },
+      {
+        "id": "save-record-2",
+        "kind": "button",
+        "label": "Save Record",
+        "index": 1
+      }
+    ]
+  },
+  {
+    "screenId": "0821c29dd4f44de5a88b29ea85f17238",
+    "title": "Insights - Focused Note Pin",
+    "componentName": "InsightsFocusedNotePin",
+    "file": "src/screens/InsightsFocusedNotePin.tsx",
+    "buttons": 4,
+    "inputs": 0,
+    "links": 6,
+    "actions": [
+      {
+        "id": "create-record-1",
+        "kind": "button",
+        "label": "Create Record",
+        "index": 0
+      },
+      {
+        "id": "filter-2",
+        "kind": "button",
+        "label": "Filter",
+        "index": 1
+      },
+      {
+        "id": "export-summary-3",
+        "kind": "button",
+        "label": "Export Summary",
+        "index": 2
+      },
+      {
+        "id": "review-now-4",
+        "kind": "button",
+        "label": "Review Now",
+        "index": 3
+      },
+      {
+        "id": "operations-1",
+        "kind": "link",
+        "label": "Operations",
+        "href": "#",
+        "index": 0
+      },
+      {
+        "id": "insights-2",
+        "kind": "link",
+        "label": "Insights",
+        "href": "#",
+        "index": 1
+      },
+      {
+        "id": "settings-3",
+        "kind": "link",
+        "label": "Settings",
+        "href": "#",
+        "index": 2
+      },
+      {
+        "id": "operations-4",
+        "kind": "link",
+        "label": "Operations",
+        "href": "#",
+        "index": 3
+      },
+      {
+        "id": "insights-5",
+        "kind": "link",
+        "label": "Insights",
+        "href": "#",
+        "index": 4
+      },
+      {
+        "id": "settings-6",
+        "kind": "link",
+        "label": "Settings",
+        "href": "#",
+        "index": 5
+      }
+    ]
+  },
+  {
+    "screenId": "10225874d8c04fa59fed74d33d7aad48",
+    "title": "Record Operations - Focused Note Pin",
+    "componentName": "RecordOperationsFocusedNotePin",
+    "file": "src/screens/RecordOperationsFocusedNotePin.tsx",
+    "buttons": 15,
+    "inputs": 6,
+    "links": 6,
+    "actions": [
+      {
+        "id": "create-record-1",
+        "kind": "button",
+        "label": "Create Record",
+        "index": 0
+      },
+      {
+        "id": "menu-2",
+        "kind": "button",
+        "label": "Menu",
+        "index": 1
+      },
+      {
+        "id": "cloud-sync-status-3",
+        "kind": "button",
+        "label": "Cloud Sync Status",
+        "index": 2
+      },
+      {
+        "id": "network-status-4",
+        "kind": "button",
+        "label": "Network Status",
+        "index": 3
+      },
+      {
+        "id": "filter-5",
+        "kind": "button",
+        "label": "Filter",
+        "index": 4
+      },
+      {
+        "id": "export-6",
+        "kind": "button",
+        "label": "Export",
+        "index": 5
+      },
+      {
+        "id": "retry-7",
+        "kind": "button",
+        "label": "Retry",
+        "index": 6
+      },
+      {
+        "id": "edit-8",
+        "kind": "button",
+        "label": "Edit",
+        "index": 7
+      },
+      {
+        "id": "edit-9",
+        "kind": "button",
+        "label": "Edit",
+        "index": 8
+      },
+      {
+        "id": "edit-10",
+        "kind": "button",
+        "label": "Edit",
+        "index": 9
+      },
+      {
+        "id": "push-pin-11",
+        "kind": "button",
+        "label": "Push Pin",
+        "index": 10
+      },
+      {
+        "id": "close-12",
+        "kind": "button",
+        "label": "Close",
+        "index": 11
+      },
+      {
+        "id": "edit-13",
+        "kind": "button",
+        "label": "Edit",
+        "index": 12
+      },
+      {
+        "id": "comment-14",
+        "kind": "button",
+        "label": "Comment",
+        "index": 13
+      },
+      {
+        "id": "mark-complete-15",
+        "kind": "button",
+        "label": "Mark Complete",
+        "index": 14
+      },
+      {
+        "id": "operations-1",
+        "kind": "link",
+        "label": "Operations",
+        "href": "#",
+        "index": 0
+      },
+      {
+        "id": "insights-2",
+        "kind": "link",
+        "label": "Insights",
+        "href": "#",
+        "index": 1
+      },
+      {
+        "id": "settings-3",
+        "kind": "link",
+        "label": "Settings",
+        "href": "#",
+        "index": 2
+      },
+      {
+        "id": "privacy-policy-4",
+        "kind": "link",
+        "label": "Privacy Policy",
+        "href": "#",
+        "index": 3
+      },
+      {
+        "id": "terms-of-service-5",
+        "kind": "link",
+        "label": "Terms of Service",
+        "href": "#",
+        "index": 4
+      },
+      {
+        "id": "help-center-6",
+        "kind": "link",
+        "label": "Help Center",
+        "href": "#",
+        "index": 5
+      }
+    ]
+  }
+]
